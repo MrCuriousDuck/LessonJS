@@ -22,3 +22,5 @@ result += '\n\n';
 var decode = atob(encode);
 result += 'Декодированная строка: ' + decode;
 console.log(result);
+
+1;
