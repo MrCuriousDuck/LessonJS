@@ -31,4 +31,3 @@ let myVar_t2 = 'Условие ложное';
 
 const resLog = txt != undefined ? myVar_t1 : myVar_t2;
 console.log(`${resLog} - переменная txt не пустая`);
-1;
